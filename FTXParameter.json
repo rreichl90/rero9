@@ -1,1 +1,1 @@
-[{"tradeoption1": {"Symbol": "ADA-PERP", "Strategie": "Market", "amountpercen": 8, "Leverage": 10, "TargetWIN": 10, "TargetLOSE": 50, "SellAccount": "Hebel 10 ADA down", "BuyAccount": "Hebel 10 Ada up", "duration": 3}}]
+{"tradeoption1": {"Symbol": "ADA-PERP", "Strategie": "Market", "amountpercen": 8, "Leverage": 10, "TargetWIN": 10, "TargetLOSE": 50, "SellAccount": "Hebel 10 ADA down", "BuyAccount": "Hebel 10 Ada up", "duration": 3}}
