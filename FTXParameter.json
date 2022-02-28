@@ -1,4 +1,4 @@
-{"ADA55": {"Symbol": "ADA-PERP", "Strategie": "Market", "amountpercen": 1, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "ADA1010DOWN", "BuyAccount": "ADA1010UP", "duration": 60},
-"TRX410": {"Symbol": "TRX-PERP", "Strategie": "Market", "amountpercen": 1, "Leverage": 20, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "TRX420DOWN", "BuyAccount": "TRX420UP", "duration": 60},
-"BTC55": {"Symbol": "BTC-PERP", "Strategie": "Market", "amountpercen": 1, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "BTC410DOWN", "BuyAccount": "BTC410UP", "duration": 60},
-"AAPL55": {"Symbol": "AAPL-0325", "Strategie": "Market", "amountpercen": 1, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "APPL1010DOWN", "BuyAccount": "APPL1010UP", "duration": 90}}
+{"ADA55": {"Symbol": "ADA-PERP", "Strategie": "Market", "amountpercen": 2, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "ADA1010DOWN", "BuyAccount": "ADA1010UP", "duration": 60},
+"TRX410": {"Symbol": "TRX-PERP", "Strategie": "Market", "amountpercen": 2, "Leverage": 20, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "TRX420DOWN", "BuyAccount": "TRX420UP", "duration": 60},
+"BTC55": {"Symbol": "BTC-PERP", "Strategie": "Market", "amountpercen": 2, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "BTC410DOWN", "BuyAccount": "BTC410UP", "duration": 60},
+"AAPL55": {"Symbol": "AAPL-0325", "Strategie": "Market", "amountpercen": 2, "Leverage": 5, "TargetWIN": 5.5, "TargetLOSE": 50, "SellAccount": "APPL1010DOWN", "BuyAccount": "APPL1010UP", "duration": 90}}
