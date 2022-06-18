@@ -1,4 +1,4 @@
-{"SRN1010": {"Symbol": "SRN-PERP", "Strategie": "Market", "Marketduration": 30, "Threshold": 0.0, "amountpercen": 1, "Leverage": 20, "TargetWIN": 90, "TargetLOSE": 47, "SellAccount": "SRN1010", "BuyAccount": "SRN1010", "duration": 1},
+{"SRN1010": {"Symbol": "SRN-PERP", "Strategie": "Market", "Marketduration": 30, "Threshold": 0.0, "amountpercen": 1, "Leverage": 20, "TargetWIN": 90, "TargetLOSE": 47, "SellAccount": "SRN1010", "BuyAccount": "SRN1010", "duration": 5},
 "TRX510": {"Symbol": "TRX-PERP", "Strategie": "Market", "Marketduration": 15, "Threshold": 0.0, "amountpercen": 1, "Leverage": 10, "TargetWIN": 4.5, "TargetLOSE": 50, "SellAccount": "TRX510", "BuyAccount": "TRX510", "duration": 60},
 "BTC510": {"Symbol": "BTC-PERP", "Strategie": "Market", "Marketduration": 30, "Threshold": 0.0, "amountpercen": 1, "Leverage": 10, "TargetWIN": 4.5, "TargetLOSE": 50, "SellAccount": "BTC510", "BuyAccount": "BTC510", "duration": 60},
 "ADA5010": {"Symbol": "ADA-PERP", "Strategie": "Market", "Marketduration": 60, "Threshold": 0.0, "amountpercen": 1, "Leverage": 10, "TargetWIN": 50, "TargetLOSE": 33, "SellAccount": "ADA5010", "BuyAccount": "ADA5010", "duration": 90},
