@@ -12,7 +12,7 @@
         "calulation": "SELLAMOUNT",
         "side": "SELL",
         "valuechange": 0.04,
-        "percent": 0.99,
+        "percent": 1,
         "currency": "USDT",
         "execution_type": "LIMIT",
         "followupstrategie": "BUYSTRATEGIE1"
