@@ -1,0 +1,17 @@
+{
+    "BUYSTRATEGIE1": {
+        "calulation": "BUYVALUE",
+        "valuechange": 0.04,
+        "percent": 0.99,
+        "currency": "USDT",
+        "followupstrategie": "SELLSTRATEGIE1"
+    },
+    "SELLSTRATEGIE1": {
+        "calulation": "BUYVALUE",
+        "valuechange": 0.04,
+        "percent": 0.99,
+        "currency": "USDT",
+        "followupstrategie": "BUYSTRATEGIE1"
+    }
+}
+
