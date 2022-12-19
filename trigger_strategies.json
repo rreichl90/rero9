@@ -1,6 +1,6 @@
 {
     "BUYSTRATEGIE1": {
-        "calulation": "BUYVALUE",
+        "caclulation": "BUYVALUE",
         "side": "BUY",
         "valuechange": 0.04,
         "percent": 0.99,
@@ -9,7 +9,7 @@
         "followupstrategie": "SELLSTRATEGIE1"
     },
     "SELLSTRATEGIE1": {
-        "calulation": "SELLAMOUNT",
+        "caclulation": "SELLAMOUNT",
         "side": "SELL",
         "valuechange": 0.04,
         "percent": 1,
