@@ -1,8 +1,26 @@
 {
+    "BUYSTRATEGIE05": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.005,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE05"
+    },
+    "SELLSTRATEGIE05": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.005,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE05"
+    },
     "BUYSTRATEGIE1": {
         "calculation": "BUYVALUE",
         "side": "BUY",
-        "valuechange": 0.04,
+        "valuechange": 0.01,
         "percent": 0.99,
         "currency": "USDT",
         "execution_type": "LIMIT",
@@ -11,11 +29,137 @@
     "SELLSTRATEGIE1": {
         "calculation": "SELLAMOUNT",
         "side": "SELL",
-        "valuechange": 0.04166667,
+        "valuechange": 0.0101,
         "percent": 1,
         "currency": "USDT",
         "execution_type": "LIMIT",
         "followupstrategie": "BUYSTRATEGIE1"
+    },
+    "BUYSTRATEGIE2": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.02,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE2"
+    },
+    "SELLSTRATEGIE2": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.0204,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE2"
+    },
+    "BUYSTRATEGIE3": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.03,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE3"
+    },
+    "SELLSTRATEGIE3": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.0309,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE3"
+    },
+    "BUYSTRATEGIE4": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.04,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE4"
+    },
+    "SELLSTRATEGIE4": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.04166667,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE4"
+    },
+    "BUYSTRATEGIE5": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.05,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE5"
+    },
+    "SELLSTRATEGIE5": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.0526,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE5"
+    },
+    "BUYSTRATEGIE8": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.08,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE8"
+    },
+    "SELLSTRATEGIE8": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.0870,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE8"
+    },
+    "BUYSTRATEGIE10": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.1,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE10"
+    },
+    "SELLSTRATEGIE10": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 0.11111,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE10"
+    },
+    "BUYSTRATEGIE50": {
+        "calculation": "BUYVALUE",
+        "side": "BUY",
+        "valuechange": 0.5,
+        "percent": 0.99,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "SELLSTRATEGIE50"
+    },
+    "SELLSTRATEGIE50": {
+        "calculation": "SELLAMOUNT",
+        "side": "SELL",
+        "valuechange": 1,
+        "percent": 1,
+        "currency": "USDT",
+        "execution_type": "LIMIT",
+        "followupstrategie": "BUYSTRATEGIE50"
     }
 }
 
