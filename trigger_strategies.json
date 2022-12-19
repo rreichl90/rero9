@@ -11,7 +11,7 @@
     "SELLSTRATEGIE1": {
         "calculation": "SELLAMOUNT",
         "side": "SELL",
-        "valuechange": 0.04,
+        "valuechange": 0.04166667,
         "percent": 1,
         "currency": "USDT",
         "execution_type": "LIMIT",
