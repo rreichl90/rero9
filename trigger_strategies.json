@@ -4,6 +4,7 @@
         "valuechange": 0.04,
         "percent": 0.99,
         "currency": "USDT",
+        "execution_type": "LIMIT",
         "followupstrategie": "SELLSTRATEGIE1"
     },
     "SELLSTRATEGIE1": {
@@ -11,6 +12,7 @@
         "valuechange": 0.04,
         "percent": 0.99,
         "currency": "USDT",
+        "execution_type": "LIMIT",
         "followupstrategie": "BUYSTRATEGIE1"
     }
 }
