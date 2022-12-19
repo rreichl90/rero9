@@ -2,8 +2,8 @@
     "BUYSTRATEGIE05": {
         "calculation": "BUYVALUE",
         "side": "BUY",
-        "valuechange": 0.005,
-        "percent": 0.995,
+        "valuechange": 0.008,
+        "percent": 0.998,
         "currency": "USDT",
         "execution_type": "LIMIT",
         "followupstrategie": "SELLSTRATEGIE05"
@@ -11,8 +11,8 @@
     "SELLSTRATEGIE05": {
         "calculation": "SELLAMOUNT",
         "side": "SELL",
-        "valuechange": 0.005,
-        "percent": 0.995,
+        "valuechange": 0.008,
+        "percent": 0.998,
         "currency": "USDT",
         "execution_type": "LIMIT",
         "followupstrategie": "BUYSTRATEGIE05"
